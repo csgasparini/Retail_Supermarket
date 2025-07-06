@@ -29,6 +29,5 @@ The goal is to explore how discounting affects both sales volume and overall pro
 - Texas, Ohio, Pennsylvania and Illinois are the least profitable states despite aggressive discounting.
 → Strategic recommendation: reduce unnecessary discounts and focus on high-margin products and regions
 
-🙋 About Me: I'm transitioning into data analysis and using this final project in my course as part of my learning portfolio. This notebook showcases my progress with Python, exploratory data analysis, and machine learning models like linear regression and Ridge regression.
-
+🙋 About Me: I'm transitioning into data analysis and using this final project in my course as part of my learning portfolio. This notebook showcases my progress with Python, exploratory data analysis.
 Thank you, Camila dos Santos Gasparini.
